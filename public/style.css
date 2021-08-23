@@ -1,0 +1,43 @@
+
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background-color: rgb(245, 216, 232);
+}
+.title {
+    color : rgb(119, 41, 87);
+    font-size: 45px ;
+
+}
+
+li {
+    display: inline-block;
+    padding: 20px;
+    margin: 10px 10px 0 10px;
+    font-size: 24px;
+    color: rgb(102, 93, 93);
+    text-align: center;
+    font-weight: bolder;
+}
+
+header {
+    text-align: center;
+}
+
+.des {
+    font-weight: lighter;
+
+    padding: 20px;
+}
+
+nav {
+    background-color: rgb(221, 162, 180);
+}
+.inp {
+    padding: 10px;
+    margin: 10px;
+    width: 300px;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: large;
+}
